@@ -1,0 +1,9 @@
+The document proposes a novel Mixed-Integer Linear Programming (MILP) based optimization model to minimize a composite objective function. This model considers both bandwidth cost and load balancing at both the network and server level.
+
+The proposed strategy focuses on minimizing bandwidth cost and load balancing to reduce overall delay in the fog-cloud computing environment.
+
+The strategy uses two types of resources: network resources (bandwidth) and server resources (CPUs' processing capacity), making it a unified model for resource optimization between the network and servers.
+
+The document conducts a series of systematic studies using different weight factors associated with each goal of the composite objective function to analyze the trade-off between bandwidth cost and load balancing.
+
+The proposed strategy fills a significant gap in the research by considering the joint optimization of bandwidth cost and load balancing in a cooperative fog-cloud computing environment.
